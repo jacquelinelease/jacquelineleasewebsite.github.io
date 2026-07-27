@@ -1,0 +1,107 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Jacqueline Lease
+  given: Jacqueline
+  family: Lease
+  alternate: ''
+  pronunciation: ''
+  pronouns: she/her
+postnominals: []
+status:
+  icon: "🧪"
+role: Assistant Professor
+bio: |
+  Jacqueline Lease is an Assistant Professor at the Collaborative Research
+  Centre for Green Materials on Environmental Technology, Kyushu Institute
+  of Technology. Her research focuses on cellulose modification chemistry —
+  mechanochemical esterification, phosphorylation, and citric acid
+  crosslinking — turning agricultural and forestry waste into functional,
+  bio-based materials. She has 35+ peer-reviewed publications and 400+
+  citations, and works under Prof. Yoshito Ando in the Ando Laboratory.
+
+affiliations:
+  - name: Kyushu Institute of Technology
+    url: https://www.kyutech.ac.jp/english/
+
+links:
+  - icon: at-symbol
+    url: mailto:lease.jacqueline285@mail.kyutech.jp
+    label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/jacqueline-lease-9b7189167/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=1RmirVQAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0006-6316-782X
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Jacqueline-Lease
+
+interests:
+  - Cellulose Modification Chemistry
+  - Mechanochemical Esterification
+  - Phosphorylation & Flame Retardancy
+  - Biomass Valorization
+  - Bio-Based Polymers
+
+education:
+  - degree: PhD in Engineering (edit with your real program & dates)
+    institution: Kyushu Institute of Technology
+    start: 2021-04-01
+    end: 2025-03-31
+    summary: |
+      Placeholder — replace with your real thesis title, dates, and summary.
+
+experience:
+  - role: Assistant Professor
+    org: Kyushu Institute of Technology — Green Material Research Center
+    start: 2025-04-01
+    summary: |
+      Research in cellulose modification chemistry, biomass-derived
+      nanomaterials, and photocatalytic composites, under Prof. Yoshito Andou.
+  - role: Research Scientist
+    org: Kyushu Institute of Technology — Ando Laboratory
+    start: 2021-04-01
+    end: 2025-03-31
+    summary: |
+      Mechanochemical cellulose esterification, phosphorylation, and biomass
+      valorization projects that formed the basis of the current publication record.
+  - role: Process Engineer
+    org: Intel — Penang
+    start: 2020-01-01
+    end: 2020-06-01
+    summary: |
+      Semiconductor manufacturing experience that shaped a process-and-yield
+      approach later applied to materials research.
+
+skills:
+  - name: Research Techniques
+    items:
+      - label: Mechanochemical Synthesis
+        level: 5
+      - label: FTIR / XRD / TGA Characterization
+        level: 5
+      - label: NMR & Zeta Potential Analysis
+        level: 4
+  - name: Hobbies
+    items:
+      - label: Road Trips in Japan
+        level: 4
+      - label: Lab Notebook Sketching
+        level: 3
+
+languages:
+  - name: English
+    level: 5
+    label: Native
+  - name: Japanese
+    level: 4
+    label: Professional
+
+awards:
+  - title: 35 Publications · 421 Citations · 4,654 Reads
+    awarder: ResearchGate Verified Profile
+    date: "2026-01-01"
+    summary: Full record on ResearchGate and Google Scholar.
+    icon: hero/document-text
